@@ -19,19 +19,23 @@ O diferencial é que o FinAI não apenas responde perguntas: ele guia o usuário
 ### 3. Demonstração (1 min)
 > Mostre o agente funcionando (pode ser gravação de tela)
 
-[Descreva o que será mostrado]
+Aqui está o FinAI em execução:
+
+O usuário digita perguntas como ‘Qual foi meu maior gasto?’ ou ‘Quanto gastei no mercado?’.
+O agente mostra tabelas, gráficos e respostas personalizadas.
+A interface tem logo, cores e layout estilo dashboard, tornando a experiência visual agradável e fácil de usar.
 
 ### 4. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-O FinAI combina tecnologia e educação financeira para democratizar o acesso ao conhecimento. Ele é seguro, evita respostas alucinatórias e nunca recomenda investimentos sem perfil detalhado. Nosso impacto é claro: ajudar pessoas a tomarem decisões financeiras melhores e alcançarem estabilidade econômica.
+O FinAI combina tecnologia e educação financeira para democratizar o acesso ao conhecimento. Ele é seguro, evita respostas alucinatórias e nunca recomenda investimentos sem perfil detalhado. Nosso impacto é claro: ajudar as pessoas a tomar decisões financeiras melhores e alcançar estabilidade econômica
 
 ---
 
 ## Checklist do Pitch
 
 - [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
+- [ ] Problema definido
 - [ ] Solução demonstrada na prática
 - [ ] Diferencial explicado
 - [ ] Áudio e vídeo com boa qualidade
