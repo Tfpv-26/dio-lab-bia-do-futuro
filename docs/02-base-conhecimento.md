@@ -12,6 +12,12 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 | `historico_relatorios.csv` | CSV | Registrar relatórios semanais/mensais para acompanhamento |
 
 
+## Fontes internas
+Documentação própria do projeto.
+FAQs e relatórios de uso do agente.
+Exemplos de interações simuladas para reforçar o tom consultivo.
+
+
 ## Fontes externas
 
 ### Datasets Hugging Face
@@ -55,12 +61,12 @@ São transformados em dicionários/estruturas Python e incluídos no contexto do
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-O agente consulta dinamicamente os dados conforme a interação.
+Maior gasto: identifica a transação de maior valor.
+Total de gastos: soma todos os valores registrados.
+Média de gastos: calcula a média dos gastos registrados.
+Gasto por categoria: calcula o total gasto em uma categoria específica.
 
-Informações relevantes (últimas transações, saldo, metas) são inseridas no system prompt para contextualizar a resposta.
-
-Relatórios e alertas são gerados com base nesses dados, evitando alucinações.
-
+Essas funções permitem que o agente responda dinamicamente às perguntas do usuário, evitando respostas fixas e tornando a interação mais útil.
 ---
 
 ## Exemplo de Contexto Montado
