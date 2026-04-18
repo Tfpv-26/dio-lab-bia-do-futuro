@@ -46,4 +46,4 @@ O FinAI combina tecnologia e educação financeira para democratizar o acesso ao
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+https://drive.google.com/file/d/1vY2m624-L109EnneDp7oBlUQMo3n3WcR/view?usp=sharing
