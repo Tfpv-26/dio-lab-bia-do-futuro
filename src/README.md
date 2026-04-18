@@ -1,14 +1,16 @@
 # Código da Aplicação
-
-Esta pasta contém o código do seu agente financeiro.
+  
+Já criei a pasta meu_agente_financeiro com o arquivo principal app.py.
+O ambiente virtual (venv) está configurado e as dependências foram instaladas com pip install streamlit pandas.
+Para rodar a aplicação, basta entrar na pasta do projeto, ativar o ambiente virtual e executar: streamlit run app.py
 
 ## Estrutura Sugerida
 
 ```
 src/
-├── app.py              # Aplicação principal (Streamlit/Gradio)
-├── agente.py           # Lógica do agente
-├── config.py           # Configurações (API keys, etc.)
+├── app.py              # Aplicação principal (Streamlit)
+├── agente.py           # (opcional) lógica do agente
+├── config.py           # (opcional) configurações
 └── requirements.txt    # Dependências
 ```
 
@@ -16,16 +18,13 @@ src/
 
 ```
 streamlit
-openai
-python-dotenv
+pandas
+
 ```
 
 ## Como Rodar
 
-```bash
-# Instalar dependências
+```
 pip install -r requirements.txt
-
-# Rodar a aplicação
 streamlit run app.py
 ```
