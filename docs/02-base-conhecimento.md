@@ -11,6 +11,22 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 | `alertas.json` | JSON |Configurar limites de gastos e alertas personalizados |
 | `historico_relatorios.csv` | CSV | Registrar relatórios semanais/mensais para acompanhamento |
 
+
+## Fontes externas
+
+### Datasets Hugging Face
+- **TableQAKit/FinQA_retrieval**  
+  [Link](https://huggingface.co/datasets/TableQAKit/FinQA_retrieval)  
+  *Objetivo:* Treinar o agente para responder perguntas sobre relatórios e tabelas financeiras.
+
+- **Banking77**  
+  [Link](https://huggingface.co/datasets/PolyAI/banking77)  
+  *Objetivo:* Reconhecer intenções comuns de usuários em contexto bancário (saldo, transferências, abertura de conta).
+
+- **DailyDialog**  
+  [Link](https://huggingface.co/datasets/li2017dailydialog)  
+  *Objetivo:* Dar naturalidade e empatia às respostas do agente, reforçando o tom consultivo e amigável.
+
 > [!TIP]
 > **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
 
